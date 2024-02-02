@@ -1,0 +1,140 @@
+{
+    "videos": [
+        {
+            "file_name": "20231001_134320.mp4",
+            "expected_bpm": 0,
+            "breath_count": 0,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": ""
+        },
+        {
+            "file_name": "20231117_215128_both_pups.mp4",
+            "expected_bpm": 0,
+            "breath_count": 0,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": ""
+        },
+        {
+            "file_name": "20240116_204616_vertical.mp4",
+            "expected_bpm": 0,
+            "breath_count": 0,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": ""
+        },
+        {
+            "file_name": "20240728_211055.mp4",
+            "expected_bpm": 0,
+            "breath_count": 0,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": ""
+        },
+        {
+            "file_name": "20240730_194913.mp4",
+            "expected_bpm": 0,
+            "breath_count": 0,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": ""
+        },
+        {
+            "file_name": "20240803_092232.mp4",
+            "expected_bpm": 0,
+            "breath_count": 0,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": ""
+        },
+        {
+            "file_name": "20240805_212254.mp4",
+            "expected_bpm": 0,
+            "breath_count": 0,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": ""
+        },
+        {
+            "file_name": "20240811_133512.mp4",
+            "expected_bpm": 0,
+            "breath_count": 0,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": ""
+        },
+        {
+            "file_name": "20240817_133341_both_pups.mp4",
+            "expected_bpm": 0,
+            "breath_count": 0,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": ""
+        },
+        {
+            "file_name": "20240820_124255.mp4",
+            "expected_bpm": 0,
+            "breath_count": 0,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": ""
+        },
+        {
+            "file_name": "PXL_20230824_035246574.mp4",
+            "expected_bpm": 0,
+            "breath_count": 0,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": ""
+        },
+        {
+            "file_name": "PXL_20230824_035440033.mp4",
+            "expected_bpm": 0,
+            "breath_count": 0,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": ""
+        },
+        {
+            "file_name": "PXL_20230825_035412125.mp4",
+            "expected_bpm": 0,
+            "breath_count": 0,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": ""
+        },
+        {
+            "file_name": "PXL_20230825_040038487.mp4",
+            "expected_bpm": 0,
+            "breath_count": 0,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": ""
+        },
+        {
+            "file_name": "PXL_20230825_152505203.mp4",
+            "expected_bpm": 0,
+            "breath_count": 0,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": ""
+        },
+        {
+            "file_name": "PXL_20230828_025504930.mp4",
+            "expected_bpm": 0,
+            "breath_count": 0,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": ""
+        },
+        {
+            "file_name": "PXL_20230831_032742300.mp4",
+            "expected_bpm": 0,
+            "breath_count": 0,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": ""
+        }
+    ]
+}

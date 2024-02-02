@@ -1,0 +1,132 @@
+{
+    "videos": [
+        {
+            "file_name": "Blaze2.mp4",
+            "expected_bpm": 18.0,
+            "breath_count": 6,
+            "examine_begin_sec": -1,
+            "examine_end_sec": 19,
+            "notes": "19 seconds in, Blaze breaths 6 times, then stops (or breaths are very shallow), he picks up breathing again at the very end."
+        },
+        {
+            "file_name": "Blaze3.mp4",
+            "expected_bpm": 21.29,
+            "breath_count": 11,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": "10 to 11 breaths in 31 seconds"
+        },
+        {
+            "file_name": "Blaze4.mp4",
+            "expected_bpm": 38.0,
+            "breath_count": 20,
+            "examine_begin_sec": -1,
+            "examine_end_sec": 29,
+            "notes": "About 20 to 21 breaths"
+        },
+        {
+            "file_name": "Blaze6.mp4",
+            "expected_bpm": 18.2,
+            "breath_count": 15.5,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": ""
+        },
+        {
+            "file_name": "20230928_084856_sophie.mp4",
+            "expected_bpm": 19.5,
+            "breath_count": 0,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": "Sophie stops breathing about half way through, not sure what the breath count is"
+        },
+        {
+            "file_name": "20231003_162545_sophie.mp4",
+            "expected_bpm": 40.0,
+            "breath_count": 0,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": ""
+        },
+        {
+            "file_name": "20231005_094615_sophie.mp4",
+            "expected_bpm": 16.0,
+            "breath_count": 0,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": ""
+        },
+        {
+            "file_name": "20231005_094642_sophie.mp4",
+            "expected_bpm": 18.0,
+            "breath_count": 8,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": "8 or 9 breaths"
+        },
+        {
+            "file_name": "20240110_145440_sophie.mp4",
+            "expected_bpm": 15.0,
+            "breath_count": 0,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": ""
+        },
+        {
+            "file_name": "20240123_211148_sophie.mp4",
+            "expected_bpm": 20.0,
+            "breath_count": 7,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": "About 7 breaths"
+        },
+        {
+            "file_name": "20240819_124020_sophie.mp4",
+            "expected_bpm": 50.0,
+            "breath_count": 28,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": "I see about 28 breaths in 30.7 sec vid, should be 54 bpm"
+        },
+        {
+            "file_name": "20240924_112953_sophie.mp4",
+            "expected_bpm": 63.0,
+            "breath_count": 33,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": "About 32 or 33"
+        },
+        {
+            "file_name": "20240924_113040_sophie.mp4",
+            "expected_bpm": 64.0,
+            "breath_count": 33,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": ""
+        },
+        {
+            "file_name": "20250115_210633_sophie.mp4",
+            "expected_bpm": 24.0,
+            "breath_count": 25,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": ""
+        },
+        {
+            "file_name": "VID_20250120_164301_brody.mp4",
+            "expected_bpm": 28,
+            "breath_count": 24,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": "Brody breathing on top of someone else. About 20 seconds in, it looks like pet_breathy starts to track the person who is breathing underneath Brody. This could mean I need better static points, like one just below Brody on the person so I get better signal of his breathing."
+        },
+        {
+            "file_name": "VID_20250120_164301_grace.mp4",
+            "expected_bpm": 0,
+            "breath_count": 0,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": "Video could be cropped more, same video as VID_20250120_164301_brody.mp4 but cropped."
+        }
+    ]
+}

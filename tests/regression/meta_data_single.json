@@ -1,0 +1,12 @@
+{
+    "videos": [
+        {
+            "file_name": "20240217_212535.mp4",
+            "expected_bpm": 0,
+            "breath_count": 0,
+            "examine_begin_sec": -1,
+            "examine_end_sec": -1,
+            "notes": ""
+        }
+    ]
+}
